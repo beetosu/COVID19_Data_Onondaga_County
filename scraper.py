@@ -1,6 +1,3 @@
-
-
-
 import urllib.request, urllib.parse, json, datetime
 
 #this is mostly just because i don't like how the county labels dates
