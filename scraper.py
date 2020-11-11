@@ -2,14 +2,20 @@ import urllib.request, urllib.parse, json, datetime
 
 #this is mostly just because i don't like how the county labels dates
 def convert_date(date):
-	monthAbbr = {"MAR": "3", "APR": "4", "MAY": "5", "JUN": "6", "JUL": "7", "AUG": "8"}
+	monthAbbr = {"JAN": "1", "FEB": "2", "MAR": "3", "APR": "4", "MAY": "5", "JUN": "6", "JUL": "7", "AUG": "8", "SEP": "9", "OCT": "10", "NOV": "11", "DEC": "12"}
 	return monthAbbr[date[:3]] + "/" + date[3:]
 
 #since the current days info is usually not uploaded until later in the afternoon,
 #its far more likely the data for the day before exists
 def get_yesterday():
 	theDay = datetime.datetime.now() - datetime.timedelta(days=1)
-	return theDay.strftime("%B_%d")
+	formattedTime = theDay.strftime("%B_%d")
+	#remove the leading zero from the day (oops)
+	dateArr = formattedTime.split("_")
+	if dateArr[1][0] == "0":
+		dateArr[1] = dateArr[1][1:]
+	print(dateArr)
+	return dateArr[0] + "_" + dateArr[1]
 
 def get_data():
 	clean_data = []
@@ -21,6 +27,8 @@ def get_data():
 	data = json.loads(content)
 	#should data not exist for the day before, try the last week
 	if "error" in data:
+		#sleep, so i don't get ip banned
+		sleep(2)
 		today = datetime.datetime.now()
 		days_tried = 0
 		day = int(yesterday.split("_")[1])

@@ -866,5 +866,817 @@
         "ACTIVE": 313,
         "RECOVERED": 2600,
         "DEATHS": 195
+    },
+    {
+        "DATE": "7/17",
+        "CONFIRMED": 3113,
+        "ACTIVE": 315,
+        "RECOVERED": 2612,
+        "DEATHS": 191
+    },
+    {
+        "DATE": "7/18",
+        "CONFIRMED": 3136,
+        "ACTIVE": 333,
+        "RECOVERED": 2617,
+        "DEATHS": 191
+    },
+    {
+        "DATE": "7/19",
+        "CONFIRMED": 3158,
+        "ACTIVE": 326,
+        "RECOVERED": 2645,
+        "DEATHS": 192
+    },
+    {
+        "DATE": "7/20",
+        "CONFIRMED": 3169,
+        "ACTIVE": 320,
+        "RECOVERED": 2662,
+        "DEATHS": 192
+    },
+    {
+        "DATE": "7/21",
+        "CONFIRMED": 3183,
+        "ACTIVE": 305,
+        "RECOVERED": 2691,
+        "DEATHS": 192
+    },
+    {
+        "DATE": "7/22",
+        "CONFIRMED": 3201,
+        "ACTIVE": 258,
+        "RECOVERED": 2754,
+        "DEATHS": 194
+    },
+    {
+        "DATE": "7/23",
+        "CONFIRMED": 3218,
+        "ACTIVE": 255,
+        "RECOVERED": 2774,
+        "DEATHS": 194
+    },
+    {
+        "DATE": "7/24",
+        "CONFIRMED": 3240,
+        "ACTIVE": 273,
+        "RECOVERED": 2778,
+        "DEATHS": 194
+    },
+    {
+        "DATE": "7/25",
+        "CONFIRMED": 3259,
+        "ACTIVE": 291,
+        "RECOVERED": 2779,
+        "DEATHS": 194
+    },
+    {
+        "DATE": "7/26",
+        "CONFIRMED": 3275,
+        "ACTIVE": 290,
+        "RECOVERED": 2795,
+        "DEATHS": 195
+    },
+    {
+        "DATE": "7/27",
+        "CONFIRMED": 3286,
+        "ACTIVE": 203,
+        "RECOVERED": 2892,
+        "DEATHS": 196
+    },
+    {
+        "DATE": "7/28",
+        "CONFIRMED": 3302,
+        "ACTIVE": 173,
+        "RECOVERED": 2938,
+        "DEATHS": 196
+    },
+    {
+        "DATE": "7/29",
+        "CONFIRMED": 3312,
+        "ACTIVE": 147,
+        "RECOVERED": 2974,
+        "DEATHS": 196
+    },
+    {
+        "DATE": "7/30",
+        "CONFIRMED": 3327,
+        "ACTIVE": 155,
+        "RECOVERED": 2980,
+        "DEATHS": 197
+    },
+    {
+        "DATE": "7/31",
+        "CONFIRMED": 3344,
+        "ACTIVE": 162,
+        "RECOVERED": 2988,
+        "DEATHS": 199
+    },
+    {
+        "DATE": "8/1",
+        "CONFIRMED": 3354,
+        "ACTIVE": 161,
+        "RECOVERED": 2998,
+        "DEATHS": 200
+    },
+    {
+        "DATE": "8/2",
+        "CONFIRMED": 3369,
+        "ACTIVE": 173,
+        "RECOVERED": 3001,
+        "DEATHS": 200
+    },
+    {
+        "DATE": "8/3",
+        "CONFIRMED": 3373,
+        "ACTIVE": 146,
+        "RECOVERED": 3032,
+        "DEATHS": 200
+    },
+    {
+        "DATE": "8/4",
+        "CONFIRMED": 3382,
+        "ACTIVE": 118,
+        "RECOVERED": 3069,
+        "DEATHS": 200
+    },
+    {
+        "DATE": "8/5",
+        "CONFIRMED": 3398,
+        "ACTIVE": 124,
+        "RECOVERED": 3079,
+        "DEATHS": 200
+    },
+    {
+        "DATE": "8/6",
+        "CONFIRMED": 3409,
+        "ACTIVE": 120,
+        "RECOVERED": 3093,
+        "DEATHS": 201
+    },
+    {
+        "DATE": "8/7",
+        "CONFIRMED": 3430,
+        "ACTIVE": 125,
+        "RECOVERED": 3109,
+        "DEATHS": 201
+    },
+    {
+        "DATE": "8/8",
+        "CONFIRMED": 3441,
+        "ACTIVE": 117,
+        "RECOVERED": 3128,
+        "DEATHS": 201
+    },
+    {
+        "DATE": "8/9",
+        "CONFIRMED": 3450,
+        "ACTIVE": 125,
+        "RECOVERED": 3129,
+        "DEATHS": 201
+    },
+    {
+        "DATE": "8/10",
+        "CONFIRMED": 3454,
+        "ACTIVE": 113,
+        "RECOVERED": 3145,
+        "DEATHS": 201
+    },
+    {
+        "DATE": "8/11",
+        "CONFIRMED": 3462,
+        "ACTIVE": 107,
+        "RECOVERED": 3159,
+        "DEATHS": 201
+    },
+    {
+        "DATE": "8/12",
+        "CONFIRMED": 3480,
+        "ACTIVE": 118,
+        "RECOVERED": 3164,
+        "DEATHS": 203
+    },
+    {
+        "DATE": "8/13",
+        "CONFIRMED": 3488,
+        "ACTIVE": 126,
+        "RECOVERED": 3164,
+        "DEATHS": 203
+    },
+    {
+        "DATE": "8/14",
+        "CONFIRMED": 3504,
+        "ACTIVE": 137,
+        "RECOVERED": 3169,
+        "DEATHS": 203
+    },
+    {
+        "DATE": "8/15",
+        "CONFIRMED": 3528,
+        "ACTIVE": 161,
+        "RECOVERED": 3169,
+        "DEATHS": 203
+    },
+    {
+        "DATE": "8/16",
+        "CONFIRMED": 3542,
+        "ACTIVE": 174,
+        "RECOVERED": 3170,
+        "DEATHS": 203
+    },
+    {
+        "DATE": "8/17",
+        "CONFIRMED": 3551,
+        "ACTIVE": 158,
+        "RECOVERED": 3195,
+        "DEATHS": 203
+    },
+    {
+        "DATE": "8/18",
+        "CONFIRMED": 3558,
+        "ACTIVE": 155,
+        "RECOVERED": 3204,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/19",
+        "CONFIRMED": 3578,
+        "ACTIVE": 166,
+        "RECOVERED": 3213,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/20",
+        "CONFIRMED": 3590,
+        "ACTIVE": 167,
+        "RECOVERED": 3224,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/21",
+        "CONFIRMED": 3600,
+        "ACTIVE": 166,
+        "RECOVERED": 3235,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/22",
+        "CONFIRMED": 3628,
+        "ACTIVE": 173,
+        "RECOVERED": 3256,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/23",
+        "CONFIRMED": 3637,
+        "ACTIVE": 182,
+        "RECOVERED": 3256,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/24",
+        "CONFIRMED": 3646,
+        "ACTIVE": 190,
+        "RECOVERED": 3257,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/25",
+        "CONFIRMED": 3656,
+        "ACTIVE": 124,
+        "RECOVERED": 3333,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/26",
+        "CONFIRMED": 3675,
+        "ACTIVE": 135,
+        "RECOVERED": 3341,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/27",
+        "CONFIRMED": 3691,
+        "ACTIVE": 145,
+        "RECOVERED": 3347,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/28",
+        "CONFIRMED": 3722,
+        "ACTIVE": 150,
+        "RECOVERED": 3373,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/29",
+        "CONFIRMED": 3738,
+        "ACTIVE": 165,
+        "RECOVERED": 3374,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/30",
+        "CONFIRMED": 3748,
+        "ACTIVE": 175,
+        "RECOVERED": 3374,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "8/31",
+        "CONFIRMED": 3763,
+        "ACTIVE": 169,
+        "RECOVERED": 3395,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "9/1",
+        "CONFIRMED": 3772,
+        "ACTIVE": 171,
+        "RECOVERED": 3402,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "9/2",
+        "CONFIRMED": 3784,
+        "ACTIVE": 175,
+        "RECOVERED": 3410,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "9/3",
+        "CONFIRMED": 3793,
+        "ACTIVE": 175,
+        "RECOVERED": 3419,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "9/4",
+        "CONFIRMED": 3809,
+        "ACTIVE": 171,
+        "RECOVERED": 3439,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "9/5",
+        "CONFIRMED": 3821,
+        "ACTIVE": 162,
+        "RECOVERED": 3460,
+        "DEATHS": 204
+    },
+    {
+        "DATE": "9/6",
+        "CONFIRMED": 3835,
+        "ACTIVE": 176,
+        "RECOVERED": 3459,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/7",
+        "CONFIRMED": 3853,
+        "ACTIVE": 171,
+        "RECOVERED": 3482,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/8",
+        "CONFIRMED": 3858,
+        "ACTIVE": 176,
+        "RECOVERED": 3482,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/9",
+        "CONFIRMED": 3868,
+        "ACTIVE": 173,
+        "RECOVERED": 3495,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/10",
+        "CONFIRMED": 3872,
+        "ACTIVE": 171,
+        "RECOVERED": 3501,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/11",
+        "CONFIRMED": 3880,
+        "ACTIVE": 168,
+        "RECOVERED": 3512,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/12",
+        "CONFIRMED": 3894,
+        "ACTIVE": 160,
+        "RECOVERED": 3534,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/13",
+        "CONFIRMED": 3910,
+        "ACTIVE": 176,
+        "RECOVERED": 3534,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/14",
+        "CONFIRMED": 3921,
+        "ACTIVE": 123,
+        "RECOVERED": 3598,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/15",
+        "CONFIRMED": 3937,
+        "ACTIVE": 123,
+        "RECOVERED": 3614,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/16",
+        "CONFIRMED": 3953,
+        "ACTIVE": 125,
+        "RECOVERED": 3628,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/17",
+        "CONFIRMED": 3969,
+        "ACTIVE": 140,
+        "RECOVERED": 3629,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/18",
+        "CONFIRMED": 3993,
+        "ACTIVE": 158,
+        "RECOVERED": 3635,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/19",
+        "CONFIRMED": 4012,
+        "ACTIVE": 159,
+        "RECOVERED": 3653,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/20",
+        "CONFIRMED": 4025,
+        "ACTIVE": 172,
+        "RECOVERED": 3653,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/21",
+        "CONFIRMED": 4041,
+        "ACTIVE": 188,
+        "RECOVERED": 3653,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/22",
+        "CONFIRMED": 4053,
+        "ACTIVE": 164,
+        "RECOVERED": 3689,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/23",
+        "CONFIRMED": 4070,
+        "ACTIVE": 168,
+        "RECOVERED": 3702,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/24",
+        "CONFIRMED": 4093,
+        "ACTIVE": 179,
+        "RECOVERED": 3714,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/25",
+        "CONFIRMED": 4116,
+        "ACTIVE": 178,
+        "RECOVERED": 3738,
+        "DEATHS": 205
+    },
+    {
+        "DATE": "9/26",
+        "CONFIRMED": 4142,
+        "ACTIVE": 193,
+        "RECOVERED": 3748,
+        "DEATHS": 206
+    },
+    {
+        "DATE": "9/27",
+        "CONFIRMED": 4160,
+        "ACTIVE": 210,
+        "RECOVERED": 3748,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "9/28",
+        "CONFIRMED": 4172,
+        "ACTIVE": 198,
+        "RECOVERED": 3772,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "9/29",
+        "CONFIRMED": 4185,
+        "ACTIVE": 188,
+        "RECOVERED": 3795,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "9/30",
+        "CONFIRMED": 4206,
+        "ACTIVE": 187,
+        "RECOVERED": 3817,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/1",
+        "CONFIRMED": 4226,
+        "ACTIVE": 190,
+        "RECOVERED": 3834,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/2",
+        "CONFIRMED": 4259,
+        "ACTIVE": 190,
+        "RECOVERED": 3867,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/3",
+        "CONFIRMED": 4284,
+        "ACTIVE": 186,
+        "RECOVERED": 3896,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/4",
+        "CONFIRMED": 4310,
+        "ACTIVE": 212,
+        "RECOVERED": 3896,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/5",
+        "CONFIRMED": 4319,
+        "ACTIVE": 197,
+        "RECOVERED": 3920,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/6",
+        "CONFIRMED": 4334,
+        "ACTIVE": 175,
+        "RECOVERED": 3957,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/7",
+        "CONFIRMED": 4382,
+        "ACTIVE": 209,
+        "RECOVERED": 3971,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/8",
+        "CONFIRMED": 4420,
+        "ACTIVE": 229,
+        "RECOVERED": 3989,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/9",
+        "CONFIRMED": 4450,
+        "ACTIVE": 245,
+        "RECOVERED": 4003,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/10",
+        "CONFIRMED": 4489,
+        "ACTIVE": 256,
+        "RECOVERED": 4031,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/11",
+        "CONFIRMED": 4523,
+        "ACTIVE": 289,
+        "RECOVERED": 4032,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/12",
+        "CONFIRMED": 4548,
+        "ACTIVE": 306,
+        "RECOVERED": 4040,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/13",
+        "CONFIRMED": 4579,
+        "ACTIVE": 289,
+        "RECOVERED": 4088,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/14",
+        "CONFIRMED": 4632,
+        "ACTIVE": 326,
+        "RECOVERED": 4104,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/15",
+        "CONFIRMED": 4668,
+        "ACTIVE": 346,
+        "RECOVERED": 4120,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/16",
+        "CONFIRMED": 4692,
+        "ACTIVE": 318,
+        "RECOVERED": 4172,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/17",
+        "CONFIRMED": 4725,
+        "ACTIVE": 297,
+        "RECOVERED": 4226,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/18",
+        "CONFIRMED": 4765,
+        "ACTIVE": 335,
+        "RECOVERED": 4228,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/19",
+        "CONFIRMED": 4791,
+        "ACTIVE": 277,
+        "RECOVERED": 4312,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/20",
+        "CONFIRMED": 4812,
+        "ACTIVE": 271,
+        "RECOVERED": 4339,
+        "DEATHS": 207
+    },
+    {
+        "DATE": "10/21",
+        "CONFIRMED": 4873,
+        "ACTIVE": 303,
+        "RECOVERED": 4367,
+        "DEATHS": 208
+    },
+    {
+        "DATE": "10/22",
+        "CONFIRMED": 4919,
+        "ACTIVE": 324,
+        "RECOVERED": 4391,
+        "DEATHS": 209
+    },
+    {
+        "DATE": "10/23",
+        "CONFIRMED": 4985,
+        "ACTIVE": 340,
+        "RECOVERED": 4440,
+        "DEATHS": 210
+    },
+    {
+        "DATE": "10/24",
+        "CONFIRMED": 5040,
+        "ACTIVE": 354,
+        "RECOVERED": 4481,
+        "DEATHS": 210
+    },
+    {
+        "DATE": "10/25",
+        "CONFIRMED": 5077,
+        "ACTIVE": 390,
+        "RECOVERED": 4481,
+        "DEATHS": 211
+    },
+    {
+        "DATE": "10/26",
+        "CONFIRMED": 5105,
+        "ACTIVE": 355,
+        "RECOVERED": 4543,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "10/27",
+        "CONFIRMED": 5131,
+        "ACTIVE": 338,
+        "RECOVERED": 4586,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "10/28",
+        "CONFIRMED": 5201,
+        "ACTIVE": 379,
+        "RECOVERED": 4615,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "10/29",
+        "CONFIRMED": 5251,
+        "ACTIVE": 398,
+        "RECOVERED": 4646,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "10/30",
+        "CONFIRMED": 5350,
+        "ACTIVE": 449,
+        "RECOVERED": 4694,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "10/31",
+        "CONFIRMED": 5421,
+        "ACTIVE": 466,
+        "RECOVERED": 4748,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/1",
+        "CONFIRMED": 5488,
+        "ACTIVE": 531,
+        "RECOVERED": 4750,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/2",
+        "CONFIRMED": 5549,
+        "ACTIVE": 522,
+        "RECOVERED": 4820,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/3",
+        "CONFIRMED": 5590,
+        "ACTIVE": 471,
+        "RECOVERED": 4912,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/4",
+        "CONFIRMED": 5684,
+        "ACTIVE": 557,
+        "RECOVERED": 4920,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/5",
+        "CONFIRMED": 5782,
+        "ACTIVE": 589,
+        "RECOVERED": 4986,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/6",
+        "CONFIRMED": 5930,
+        "ACTIVE": 709,
+        "RECOVERED": 5014,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/7",
+        "CONFIRMED": 6050,
+        "ACTIVE": 718,
+        "RECOVERED": 5125,
+        "DEATHS": 212
+    },
+    {
+        "DATE": "11/8",
+        "CONFIRMED": 6157,
+        "ACTIVE": 823,
+        "RECOVERED": 5125,
+        "DEATHS": 214
+    },
+    {
+        "DATE": "11/9",
+        "CONFIRMED": 6277,
+        "ACTIVE": 868,
+        "RECOVERED": 5197,
+        "DEATHS": 217
     }
 ]
