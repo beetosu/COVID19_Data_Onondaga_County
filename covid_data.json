@@ -1,1682 +1,2137 @@
 [
     {
-        "DATE": "3/15",
+        "DATE": "3/15/2020",
         "CONFIRMED": 0,
         "ACTIVE": 0,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/16",
+        "DATE": "3/16/2020",
         "CONFIRMED": 2,
         "ACTIVE": 2,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/17",
+        "DATE": "3/17/2020",
         "CONFIRMED": 2,
         "ACTIVE": 2,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/18",
+        "DATE": "3/18/2020",
         "CONFIRMED": 3,
         "ACTIVE": 3,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/19",
+        "DATE": "3/19/2020",
         "CONFIRMED": 7,
         "ACTIVE": 7,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/20",
+        "DATE": "3/20/2020",
         "CONFIRMED": 13,
         "ACTIVE": 13,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/21",
+        "DATE": "3/21/2020",
         "CONFIRMED": 34,
         "ACTIVE": 34,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/22",
+        "DATE": "3/22/2020",
         "CONFIRMED": 45,
         "ACTIVE": 45,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/23",
+        "DATE": "3/23/2020",
         "CONFIRMED": 53,
         "ACTIVE": 53,
         "RECOVERED": 0,
         "DEATHS": 0
     },
     {
-        "DATE": "3/24",
+        "DATE": "3/24/2020",
         "CONFIRMED": 60,
         "ACTIVE": 59,
         "RECOVERED": 0,
         "DEATHS": 1
     },
     {
-        "DATE": "3/25",
+        "DATE": "3/25/2020",
         "CONFIRMED": 81,
         "ACTIVE": 80,
         "RECOVERED": 0,
         "DEATHS": 1
     },
     {
-        "DATE": "3/26",
+        "DATE": "3/26/2020",
         "CONFIRMED": 111,
         "ACTIVE": 110,
         "RECOVERED": 0,
         "DEATHS": 1
     },
     {
-        "DATE": "3/27",
+        "DATE": "3/27/2020",
         "CONFIRMED": 123,
         "ACTIVE": 122,
         "RECOVERED": 0,
         "DEATHS": 1
     },
     {
-        "DATE": "3/28",
+        "DATE": "3/28/2020",
         "CONFIRMED": 146,
         "ACTIVE": 145,
         "RECOVERED": 0,
         "DEATHS": 1
     },
     {
-        "DATE": "3/29",
+        "DATE": "3/29/2020",
         "CONFIRMED": 194,
         "ACTIVE": 188,
         "RECOVERED": 5,
         "DEATHS": 1
     },
     {
-        "DATE": "3/30",
+        "DATE": "3/30/2020",
         "CONFIRMED": 228,
         "ACTIVE": 186,
         "RECOVERED": 41,
         "DEATHS": 1
     },
     {
-        "DATE": "3/31",
+        "DATE": "3/31/2020",
         "CONFIRMED": 249,
         "ACTIVE": 193,
         "RECOVERED": 55,
         "DEATHS": 1
     },
     {
-        "DATE": "4/1",
+        "DATE": "4/1/2020",
         "CONFIRMED": 277,
         "ACTIVE": 209,
         "RECOVERED": 67,
         "DEATHS": 1
     },
     {
-        "DATE": "4/2",
+        "DATE": "4/2/2020",
         "CONFIRMED": 301,
         "ACTIVE": 224,
         "RECOVERED": 75,
         "DEATHS": 2
     },
     {
-        "DATE": "4/3",
+        "DATE": "4/3/2020",
         "CONFIRMED": 322,
         "ACTIVE": 232,
         "RECOVERED": 87,
         "DEATHS": 3
     },
     {
-        "DATE": "4/4",
+        "DATE": "4/4/2020",
         "CONFIRMED": 349,
         "ACTIVE": 245,
         "RECOVERED": 100,
         "DEATHS": 4
     },
     {
-        "DATE": "4/5",
+        "DATE": "4/5/2020",
         "CONFIRMED": 364,
         "ACTIVE": 246,
         "RECOVERED": 113,
         "DEATHS": 5
     },
     {
-        "DATE": "4/6",
+        "DATE": "4/6/2020",
         "CONFIRMED": 377,
         "ACTIVE": 257,
         "RECOVERED": 115,
         "DEATHS": 5
     },
     {
-        "DATE": "4/7",
+        "DATE": "4/7/2020",
         "CONFIRMED": 397,
         "ACTIVE": 272,
         "RECOVERED": 119,
         "DEATHS": 6
     },
     {
-        "DATE": "4/8",
+        "DATE": "4/8/2020",
         "CONFIRMED": 422,
         "ACTIVE": 275,
         "RECOVERED": 141,
         "DEATHS": 6
     },
     {
-        "DATE": "4/9",
+        "DATE": "4/9/2020",
         "CONFIRMED": 442,
         "ACTIVE": 281,
         "RECOVERED": 154,
         "DEATHS": 7
     },
     {
-        "DATE": "4/10",
+        "DATE": "4/10/2020",
         "CONFIRMED": 456,
         "ACTIVE": 272,
         "RECOVERED": 176,
         "DEATHS": 8
     },
     {
-        "DATE": "4/11",
+        "DATE": "4/11/2020",
         "CONFIRMED": 481,
         "ACTIVE": 275,
         "RECOVERED": 197,
         "DEATHS": 9
     },
     {
-        "DATE": "4/12",
+        "DATE": "4/12/2020",
         "CONFIRMED": 494,
         "ACTIVE": 251,
         "RECOVERED": 234,
         "DEATHS": 9
     },
     {
-        "DATE": "4/13",
+        "DATE": "4/13/2020",
         "CONFIRMED": 520,
         "ACTIVE": 252,
         "RECOVERED": 257,
         "DEATHS": 11
     },
     {
-        "DATE": "4/14",
+        "DATE": "4/14/2020",
         "CONFIRMED": 537,
         "ACTIVE": 258,
         "RECOVERED": 268,
         "DEATHS": 11
     },
     {
-        "DATE": "4/15",
+        "DATE": "4/15/2020",
         "CONFIRMED": 563,
         "ACTIVE": 278,
         "RECOVERED": 273,
         "DEATHS": 12
     },
     {
-        "DATE": "4/16",
+        "DATE": "4/16/2020",
         "CONFIRMED": 579,
         "ACTIVE": 283,
         "RECOVERED": 279,
         "DEATHS": 17
     },
     {
-        "DATE": "4/17",
+        "DATE": "4/17/2020",
         "CONFIRMED": 598,
         "ACTIVE": 271,
         "RECOVERED": 310,
         "DEATHS": 17
     },
     {
-        "DATE": "4/18",
+        "DATE": "4/18/2020",
         "CONFIRMED": 624,
         "ACTIVE": 276,
         "RECOVERED": 330,
         "DEATHS": 18
     },
     {
-        "DATE": "4/19",
+        "DATE": "4/19/2020",
         "CONFIRMED": 637,
         "ACTIVE": 267,
         "RECOVERED": 351,
         "DEATHS": 19
     },
     {
-        "DATE": "4/20",
+        "DATE": "4/20/2020",
         "CONFIRMED": 646,
         "ACTIVE": 263,
         "RECOVERED": 362,
         "DEATHS": 21
     },
     {
-        "DATE": "4/21",
+        "DATE": "4/21/2020",
         "CONFIRMED": 667,
         "ACTIVE": 276,
         "RECOVERED": 369,
         "DEATHS": 22
     },
     {
-        "DATE": "4/22",
+        "DATE": "4/22/2020",
         "CONFIRMED": 695,
         "ACTIVE": 269,
         "RECOVERED": 404,
         "DEATHS": 22
     },
     {
-        "DATE": "4/23",
+        "DATE": "4/23/2020",
         "CONFIRMED": 724,
         "ACTIVE": 279,
         "RECOVERED": 422,
         "DEATHS": 23
     },
     {
-        "DATE": "4/24",
+        "DATE": "4/24/2020",
         "CONFIRMED": 746,
         "ACTIVE": 236,
         "RECOVERED": 485,
         "DEATHS": 25
     },
     {
-        "DATE": "4/25",
+        "DATE": "4/25/2020",
         "CONFIRMED": 774,
         "ACTIVE": 244,
         "RECOVERED": 505,
         "DEATHS": 25
     },
     {
-        "DATE": "4/26",
+        "DATE": "4/26/2020",
         "CONFIRMED": 798,
         "ACTIVE": 258,
         "RECOVERED": 515,
         "DEATHS": 25
     },
     {
-        "DATE": "4/27",
+        "DATE": "4/27/2020",
         "CONFIRMED": 819,
         "ACTIVE": 275,
         "RECOVERED": 518,
         "DEATHS": 26
     },
     {
-        "DATE": "4/28",
+        "DATE": "4/28/2020",
         "CONFIRMED": 841,
         "ACTIVE": 269,
         "RECOVERED": 543,
         "DEATHS": 29
     },
     {
-        "DATE": "4/29",
+        "DATE": "4/29/2020",
         "CONFIRMED": 876,
         "ACTIVE": 296,
         "RECOVERED": 550,
         "DEATHS": 30
     },
     {
-        "DATE": "4/30",
+        "DATE": "4/30/2020",
         "CONFIRMED": 920,
         "ACTIVE": 326,
         "RECOVERED": 561,
         "DEATHS": 33
     },
     {
-        "DATE": "5/1",
+        "DATE": "5/1/2020",
         "CONFIRMED": 947,
         "ACTIVE": 339,
         "RECOVERED": 574,
         "DEATHS": 34
     },
     {
-        "DATE": "5/2",
+        "DATE": "5/2/2020",
         "CONFIRMED": 994,
         "ACTIVE": 352,
         "RECOVERED": 608,
         "DEATHS": 34
     },
     {
-        "DATE": "5/3",
+        "DATE": "5/3/2020",
         "CONFIRMED": 1047,
         "ACTIVE": 401,
         "RECOVERED": 610,
         "DEATHS": 36
     },
     {
-        "DATE": "5/4",
+        "DATE": "5/4/2020",
         "CONFIRMED": 1088,
         "ACTIVE": 432,
         "RECOVERED": 619,
         "DEATHS": 37
     },
     {
-        "DATE": "5/5",
+        "DATE": "5/5/2020",
         "CONFIRMED": 1115,
         "ACTIVE": 452,
         "RECOVERED": 623,
         "DEATHS": 40
     },
     {
-        "DATE": "5/6",
+        "DATE": "5/6/2020",
         "CONFIRMED": 1178,
         "ACTIVE": 505,
         "RECOVERED": 632,
         "DEATHS": 41
     },
     {
-        "DATE": "5/7",
+        "DATE": "5/7/2020",
         "CONFIRMED": 1234,
         "ACTIVE": 532,
         "RECOVERED": 661,
         "DEATHS": 41
     },
     {
-        "DATE": "5/8",
+        "DATE": "5/8/2020",
         "CONFIRMED": 1286,
         "ACTIVE": 561,
         "RECOVERED": 681,
         "DEATHS": 65
     },
     {
-        "DATE": "5/9",
+        "DATE": "5/9/2020",
         "CONFIRMED": 1329,
         "ACTIVE": 588,
         "RECOVERED": 694,
         "DEATHS": 69
     },
     {
-        "DATE": "5/10",
+        "DATE": "5/10/2020",
         "CONFIRMED": 1365,
         "ACTIVE": 609,
         "RECOVERED": 709,
         "DEATHS": 69
     },
     {
-        "DATE": "5/11",
+        "DATE": "5/11/2020",
         "CONFIRMED": 1394,
         "ACTIVE": 587,
         "RECOVERED": 737,
         "DEATHS": 75
     },
     {
-        "DATE": "5/12",
+        "DATE": "5/12/2020",
         "CONFIRMED": 1425,
         "ACTIVE": 600,
         "RECOVERED": 751,
         "DEATHS": 79
     },
     {
-        "DATE": "5/13",
+        "DATE": "5/13/2020",
         "CONFIRMED": 1488,
         "ACTIVE": 647,
         "RECOVERED": 764,
         "DEATHS": 82
     },
     {
-        "DATE": "5/14",
+        "DATE": "5/14/2020",
         "CONFIRMED": 1523,
         "ACTIVE": 659,
         "RECOVERED": 785,
         "DEATHS": 84
     },
     {
-        "DATE": "5/15",
+        "DATE": "5/15/2020",
         "CONFIRMED": 1543,
         "ACTIVE": 662,
         "RECOVERED": 796,
         "DEATHS": 90
     },
     {
-        "DATE": "5/16",
+        "DATE": "5/16/2020",
         "CONFIRMED": 1566,
         "ACTIVE": 651,
         "RECOVERED": 821,
         "DEATHS": 99
     },
     {
-        "DATE": "5/17",
+        "DATE": "5/17/2020",
         "CONFIRMED": 1597,
         "ACTIVE": 672,
         "RECOVERED": 828,
         "DEATHS": 102
     },
     {
-        "DATE": "5/18",
+        "DATE": "5/18/2020",
         "CONFIRMED": 1614,
         "ACTIVE": 679,
         "RECOVERED": 837,
         "DEATHS": 103
     },
     {
-        "DATE": "5/19",
+        "DATE": "5/19/2020",
         "CONFIRMED": 1649,
         "ACTIVE": 707,
         "RECOVERED": 852,
         "DEATHS": 105
     },
     {
-        "DATE": "5/20",
+        "DATE": "5/20/2020",
         "CONFIRMED": 1710,
         "ACTIVE": 732,
         "RECOVERED": 876,
         "DEATHS": 107
     },
     {
-        "DATE": "5/21",
+        "DATE": "5/21/2020",
         "CONFIRMED": 1752,
         "ACTIVE": 746,
         "RECOVERED": 903,
         "DEATHS": 108
     },
     {
-        "DATE": "5/22",
+        "DATE": "5/22/2020",
         "CONFIRMED": 1788,
         "ACTIVE": 765,
         "RECOVERED": 919,
         "DEATHS": 109
     },
     {
-        "DATE": "5/23",
+        "DATE": "5/23/2020",
         "CONFIRMED": 1836,
         "ACTIVE": 736,
         "RECOVERED": 990,
         "DEATHS": 115
     },
     {
-        "DATE": "5/24",
+        "DATE": "5/24/2020",
         "CONFIRMED": 1883,
         "ACTIVE": 779,
         "RECOVERED": 994,
         "DEATHS": 115
     },
     {
-        "DATE": "5/25",
+        "DATE": "5/25/2020",
         "CONFIRMED": 1945,
         "ACTIVE": 835,
         "RECOVERED": 994,
         "DEATHS": 121
     },
     {
-        "DATE": "5/26",
+        "DATE": "5/26/2020",
         "CONFIRMED": 1959,
         "ACTIVE": 828,
         "RECOVERED": 1013,
         "DEATHS": 123
     },
     {
-        "DATE": "5/27",
+        "DATE": "5/27/2020",
         "CONFIRMED": 1973,
         "ACTIVE": 814,
         "RECOVERED": 1037,
         "DEATHS": 127
     },
     {
-        "DATE": "5/28",
+        "DATE": "5/28/2020",
         "CONFIRMED": 1992,
         "ACTIVE": 822,
         "RECOVERED": 1045,
         "DEATHS": 130
     },
     {
-        "DATE": "5/29",
+        "DATE": "5/29/2020",
         "CONFIRMED": 2024,
         "ACTIVE": 843,
         "RECOVERED": 1055,
         "DEATHS": 131
     },
     {
-        "DATE": "5/30",
+        "DATE": "5/30/2020",
         "CONFIRMED": 2071,
         "ACTIVE": 876,
         "RECOVERED": 1065,
         "DEATHS": 135
     },
     {
-        "DATE": "5/31",
+        "DATE": "5/31/2020",
         "CONFIRMED": 2104,
         "ACTIVE": 895,
         "RECOVERED": 1077,
         "DEATHS": 137
     },
     {
-        "DATE": "6/1",
+        "DATE": "6/1/2020",
         "CONFIRMED": 2129,
         "ACTIVE": 909,
         "RECOVERED": 1086,
         "DEATHS": 139
     },
     {
-        "DATE": "6/2",
+        "DATE": "6/2/2020",
         "CONFIRMED": 2152,
         "ACTIVE": 906,
         "RECOVERED": 1110,
         "DEATHS": 141
     },
     {
-        "DATE": "6/3",
+        "DATE": "6/3/2020",
         "CONFIRMED": 2182,
         "ACTIVE": 920,
         "RECOVERED": 1123,
         "DEATHS": 144
     },
     {
-        "DATE": "6/4",
+        "DATE": "6/4/2020",
         "CONFIRMED": 2222,
         "ACTIVE": 912,
         "RECOVERED": 1166,
         "DEATHS": 149
     },
     {
-        "DATE": "6/5",
+        "DATE": "6/5/2020",
         "CONFIRMED": 2243,
         "ACTIVE": 917,
         "RECOVERED": 1180,
         "DEATHS": 151
     },
     {
-        "DATE": "6/6",
+        "DATE": "6/6/2020",
         "CONFIRMED": 2271,
         "ACTIVE": 922,
         "RECOVERED": 1203,
         "DEATHS": 151
     },
     {
-        "DATE": "6/7",
+        "DATE": "6/7/2020",
         "CONFIRMED": 2305,
         "ACTIVE": 933,
         "RECOVERED": 1223,
         "DEATHS": 154
     },
     {
-        "DATE": "6/8",
+        "DATE": "6/8/2020",
         "CONFIRMED": 2324,
         "ACTIVE": 941,
         "RECOVERED": 1232,
         "DEATHS": 156
     },
     {
-        "DATE": "6/9",
+        "DATE": "6/9/2020",
         "CONFIRMED": 2336,
         "ACTIVE": 929,
         "RECOVERED": 1252,
         "DEATHS": 160
     },
     {
-        "DATE": "6/10",
+        "DATE": "6/10/2020",
         "CONFIRMED": 2351,
         "ACTIVE": 910,
         "RECOVERED": 1285,
         "DEATHS": 161
     },
     {
-        "DATE": "6/11",
+        "DATE": "6/11/2020",
         "CONFIRMED": 2366,
         "ACTIVE": 865,
         "RECOVERED": 1342,
         "DEATHS": 164
     },
     {
-        "DATE": "6/12",
+        "DATE": "6/12/2020",
         "CONFIRMED": 2389,
         "ACTIVE": 855,
         "RECOVERED": 1373,
         "DEATHS": 166
     },
     {
-        "DATE": "6/13",
+        "DATE": "6/13/2020",
         "CONFIRMED": 2406,
         "ACTIVE": 802,
         "RECOVERED": 1440,
         "DEATHS": 169
     },
     {
-        "DATE": "6/14",
+        "DATE": "6/14/2020",
         "CONFIRMED": 2423,
         "ACTIVE": 801,
         "RECOVERED": 1454,
         "DEATHS": 173
     },
     {
-        "DATE": "6/15",
+        "DATE": "6/15/2020",
         "CONFIRMED": 2435,
         "ACTIVE": 796,
         "RECOVERED": 1471,
         "DEATHS": 173
     },
     {
-        "DATE": "6/16",
+        "DATE": "6/16/2020",
         "CONFIRMED": 2444,
         "ACTIVE": 761,
         "RECOVERED": 1514,
         "DEATHS": 174
     },
     {
-        "DATE": "6/17",
+        "DATE": "6/17/2020",
         "CONFIRMED": 2462,
         "ACTIVE": 741,
         "RECOVERED": 1549,
         "DEATHS": 177
     },
     {
-        "DATE": "6/18",
+        "DATE": "6/18/2020",
         "CONFIRMED": 2482,
         "ACTIVE": 682,
         "RECOVERED": 1627,
         "DEATHS": 178
     },
     {
-        "DATE": "6/19",
+        "DATE": "6/19/2020",
         "CONFIRMED": 2528,
         "ACTIVE": 566,
         "RECOVERED": 1789,
         "DEATHS": 178
     },
     {
-        "DATE": "6/20",
+        "DATE": "6/20/2020",
         "CONFIRMED": 2544,
         "ACTIVE": 524,
         "RECOVERED": 1847,
         "DEATHS": 178
     },
     {
-        "DATE": "6/21",
+        "DATE": "6/21/2020",
         "CONFIRMED": 2557,
         "ACTIVE": 524,
         "RECOVERED": 1858,
         "DEATHS": 180
     },
     {
-        "DATE": "6/22",
+        "DATE": "6/22/2020",
         "CONFIRMED": 2576,
         "ACTIVE": 504,
         "RECOVERED": 1897,
         "DEATHS": 180
     },
     {
-        "DATE": "6/23",
+        "DATE": "6/23/2020",
         "CONFIRMED": 2582,
         "ACTIVE": 433,
         "RECOVERED": 1972,
         "DEATHS": 182
     },
     {
-        "DATE": "6/24",
+        "DATE": "6/24/2020",
         "CONFIRMED": 2598,
         "ACTIVE": 439,
         "RECOVERED": 1982,
         "DEATHS": 182
     },
     {
-        "DATE": "6/25",
+        "DATE": "6/25/2020",
         "CONFIRMED": 2631,
         "ACTIVE": 470,
         "RECOVERED": 1982,
         "DEATHS": 184
     },
     {
-        "DATE": "6/26",
+        "DATE": "6/26/2020",
         "CONFIRMED": 2647,
         "ACTIVE": 475,
         "RECOVERED": 1993,
         "DEATHS": 184
     },
     {
-        "DATE": "6/27",
+        "DATE": "6/27/2020",
         "CONFIRMED": 2671,
         "ACTIVE": 479,
         "RECOVERED": 2013,
         "DEATHS": 184
     },
     {
-        "DATE": "6/28",
+        "DATE": "6/28/2020",
         "CONFIRMED": 2696,
         "ACTIVE": 496,
         "RECOVERED": 2020,
         "DEATHS": 185
     },
     {
-        "DATE": "6/29",
+        "DATE": "6/29/2020",
         "CONFIRMED": 2708,
         "ACTIVE": 443,
         "RECOVERED": 2083,
         "DEATHS": 187
     },
     {
-        "DATE": "6/30",
+        "DATE": "6/30/2020",
         "CONFIRMED": 2726,
         "ACTIVE": 460,
         "RECOVERED": 2084,
         "DEATHS": 187
     },
     {
-        "DATE": "7/1",
+        "DATE": "7/1/2020",
         "CONFIRMED": 2739,
         "ACTIVE": 445,
         "RECOVERED": 2111,
         "DEATHS": 188
     },
     {
-        "DATE": "7/2",
+        "DATE": "7/2/2020",
         "CONFIRMED": 2765,
         "ACTIVE": 403,
         "RECOVERED": 2179,
         "DEATHS": 188
     },
     {
-        "DATE": "7/3",
+        "DATE": "7/3/2020",
         "CONFIRMED": 2784,
         "ACTIVE": 411,
         "RECOVERED": 2190,
         "DEATHS": 188
     },
     {
-        "DATE": "7/4",
+        "DATE": "7/4/2020",
         "CONFIRMED": 2800,
         "ACTIVE": 417,
         "RECOVERED": 2200,
         "DEATHS": 188
     },
     {
-        "DATE": "7/5",
+        "DATE": "7/5/2020",
         "CONFIRMED": 2823,
         "ACTIVE": 398,
         "RECOVERED": 2242,
         "DEATHS": 188
     },
     {
-        "DATE": "7/6",
+        "DATE": "7/6/2020",
         "CONFIRMED": 2844,
         "ACTIVE": 344,
         "RECOVERED": 2317,
         "DEATHS": 188
     },
     {
-        "DATE": "7/7",
+        "DATE": "7/7/2020",
         "CONFIRMED": 2860,
         "ACTIVE": 315,
         "RECOVERED": 2362,
         "DEATHS": 188
     },
     {
-        "DATE": "7/8",
+        "DATE": "7/8/2020",
         "CONFIRMED": 2894,
         "ACTIVE": 329,
         "RECOVERED": 2382,
         "DEATHS": 188
     },
     {
-        "DATE": "7/9",
+        "DATE": "7/9/2020",
         "CONFIRMED": 2925,
         "ACTIVE": 301,
         "RECOVERED": 2441,
         "DEATHS": 188
     },
     {
-        "DATE": "7/10",
+        "DATE": "7/10/2020",
         "CONFIRMED": 2944,
         "ACTIVE": 304,
         "RECOVERED": 2455,
         "DEATHS": 190
     },
     {
-        "DATE": "7/11",
+        "DATE": "7/11/2020",
         "CONFIRMED": 2973,
         "ACTIVE": 320,
         "RECOVERED": 2468,
         "DEATHS": 190
     },
     {
-        "DATE": "7/12",
+        "DATE": "7/12/2020",
         "CONFIRMED": 3012,
         "ACTIVE": 342,
         "RECOVERED": 2484,
         "DEATHS": 191
     },
     {
-        "DATE": "7/13",
+        "DATE": "7/13/2020",
         "CONFIRMED": 3024,
         "ACTIVE": 288,
         "RECOVERED": 2550,
         "DEATHS": 191
     },
     {
-        "DATE": "7/14",
+        "DATE": "7/14/2020",
         "CONFIRMED": 3041,
         "ACTIVE": 270,
         "RECOVERED": 2585,
         "DEATHS": 191
     },
     {
-        "DATE": "7/15",
+        "DATE": "7/15/2020",
         "CONFIRMED": 3066,
         "ACTIVE": 279,
         "RECOVERED": 2600,
         "DEATHS": 192
     },
     {
-        "DATE": "7/16",
+        "DATE": "7/16/2020",
         "CONFIRMED": 3103,
         "ACTIVE": 313,
         "RECOVERED": 2600,
         "DEATHS": 195
     },
     {
-        "DATE": "7/17",
+        "DATE": "7/17/2020",
         "CONFIRMED": 3113,
         "ACTIVE": 315,
         "RECOVERED": 2612,
         "DEATHS": 191
     },
     {
-        "DATE": "7/18",
+        "DATE": "7/18/2020",
         "CONFIRMED": 3136,
         "ACTIVE": 333,
         "RECOVERED": 2617,
         "DEATHS": 191
     },
     {
-        "DATE": "7/19",
+        "DATE": "7/19/2020",
         "CONFIRMED": 3158,
         "ACTIVE": 326,
         "RECOVERED": 2645,
         "DEATHS": 192
     },
     {
-        "DATE": "7/20",
+        "DATE": "7/20/2020",
         "CONFIRMED": 3169,
         "ACTIVE": 320,
         "RECOVERED": 2662,
         "DEATHS": 192
     },
     {
-        "DATE": "7/21",
+        "DATE": "7/21/2020",
         "CONFIRMED": 3183,
         "ACTIVE": 305,
         "RECOVERED": 2691,
         "DEATHS": 192
     },
     {
-        "DATE": "7/22",
+        "DATE": "7/22/2020",
         "CONFIRMED": 3201,
         "ACTIVE": 258,
         "RECOVERED": 2754,
         "DEATHS": 194
     },
     {
-        "DATE": "7/23",
+        "DATE": "7/23/2020",
         "CONFIRMED": 3218,
         "ACTIVE": 255,
         "RECOVERED": 2774,
         "DEATHS": 194
     },
     {
-        "DATE": "7/24",
+        "DATE": "7/24/2020",
         "CONFIRMED": 3240,
         "ACTIVE": 273,
         "RECOVERED": 2778,
         "DEATHS": 194
     },
     {
-        "DATE": "7/25",
+        "DATE": "7/25/2020",
         "CONFIRMED": 3259,
         "ACTIVE": 291,
         "RECOVERED": 2779,
         "DEATHS": 194
     },
     {
-        "DATE": "7/26",
+        "DATE": "7/26/2020",
         "CONFIRMED": 3275,
         "ACTIVE": 290,
         "RECOVERED": 2795,
         "DEATHS": 195
     },
     {
-        "DATE": "7/27",
+        "DATE": "7/27/2020",
         "CONFIRMED": 3286,
         "ACTIVE": 203,
         "RECOVERED": 2892,
         "DEATHS": 196
     },
     {
-        "DATE": "7/28",
+        "DATE": "7/28/2020",
         "CONFIRMED": 3302,
         "ACTIVE": 173,
         "RECOVERED": 2938,
         "DEATHS": 196
     },
     {
-        "DATE": "7/29",
+        "DATE": "7/29/2020",
         "CONFIRMED": 3312,
         "ACTIVE": 147,
         "RECOVERED": 2974,
         "DEATHS": 196
     },
     {
-        "DATE": "7/30",
+        "DATE": "7/30/2020",
         "CONFIRMED": 3327,
         "ACTIVE": 155,
         "RECOVERED": 2980,
         "DEATHS": 197
     },
     {
-        "DATE": "7/31",
+        "DATE": "7/31/2020",
         "CONFIRMED": 3344,
         "ACTIVE": 162,
         "RECOVERED": 2988,
         "DEATHS": 199
     },
     {
-        "DATE": "8/1",
+        "DATE": "8/1/2020",
         "CONFIRMED": 3354,
         "ACTIVE": 161,
         "RECOVERED": 2998,
         "DEATHS": 200
     },
     {
-        "DATE": "8/2",
+        "DATE": "8/2/2020",
         "CONFIRMED": 3369,
         "ACTIVE": 173,
         "RECOVERED": 3001,
         "DEATHS": 200
     },
     {
-        "DATE": "8/3",
+        "DATE": "8/3/2020",
         "CONFIRMED": 3373,
         "ACTIVE": 146,
         "RECOVERED": 3032,
         "DEATHS": 200
     },
     {
-        "DATE": "8/4",
+        "DATE": "8/4/2020",
         "CONFIRMED": 3382,
         "ACTIVE": 118,
         "RECOVERED": 3069,
         "DEATHS": 200
     },
     {
-        "DATE": "8/5",
+        "DATE": "8/5/2020",
         "CONFIRMED": 3398,
         "ACTIVE": 124,
         "RECOVERED": 3079,
         "DEATHS": 200
     },
     {
-        "DATE": "8/6",
+        "DATE": "8/6/2020",
         "CONFIRMED": 3409,
         "ACTIVE": 120,
         "RECOVERED": 3093,
         "DEATHS": 201
     },
     {
-        "DATE": "8/7",
+        "DATE": "8/7/2020",
         "CONFIRMED": 3430,
         "ACTIVE": 125,
         "RECOVERED": 3109,
         "DEATHS": 201
     },
     {
-        "DATE": "8/8",
+        "DATE": "8/8/2020",
         "CONFIRMED": 3441,
         "ACTIVE": 117,
         "RECOVERED": 3128,
         "DEATHS": 201
     },
     {
-        "DATE": "8/9",
+        "DATE": "8/9/2020",
         "CONFIRMED": 3450,
         "ACTIVE": 125,
         "RECOVERED": 3129,
         "DEATHS": 201
     },
     {
-        "DATE": "8/10",
+        "DATE": "8/10/2020",
         "CONFIRMED": 3454,
         "ACTIVE": 113,
         "RECOVERED": 3145,
         "DEATHS": 201
     },
     {
-        "DATE": "8/11",
+        "DATE": "8/11/2020",
         "CONFIRMED": 3462,
         "ACTIVE": 107,
         "RECOVERED": 3159,
         "DEATHS": 201
     },
     {
-        "DATE": "8/12",
+        "DATE": "8/12/2020",
         "CONFIRMED": 3480,
         "ACTIVE": 118,
         "RECOVERED": 3164,
         "DEATHS": 203
     },
     {
-        "DATE": "8/13",
+        "DATE": "8/13/2020",
         "CONFIRMED": 3488,
         "ACTIVE": 126,
         "RECOVERED": 3164,
         "DEATHS": 203
     },
     {
-        "DATE": "8/14",
+        "DATE": "8/14/2020",
         "CONFIRMED": 3504,
         "ACTIVE": 137,
         "RECOVERED": 3169,
         "DEATHS": 203
     },
     {
-        "DATE": "8/15",
+        "DATE": "8/15/2020",
         "CONFIRMED": 3528,
         "ACTIVE": 161,
         "RECOVERED": 3169,
         "DEATHS": 203
     },
     {
-        "DATE": "8/16",
+        "DATE": "8/16/2020",
         "CONFIRMED": 3542,
         "ACTIVE": 174,
         "RECOVERED": 3170,
         "DEATHS": 203
     },
     {
-        "DATE": "8/17",
+        "DATE": "8/17/2020",
         "CONFIRMED": 3551,
         "ACTIVE": 158,
         "RECOVERED": 3195,
         "DEATHS": 203
     },
     {
-        "DATE": "8/18",
+        "DATE": "8/18/2020",
         "CONFIRMED": 3558,
         "ACTIVE": 155,
         "RECOVERED": 3204,
         "DEATHS": 204
     },
     {
-        "DATE": "8/19",
+        "DATE": "8/19/2020",
         "CONFIRMED": 3578,
         "ACTIVE": 166,
         "RECOVERED": 3213,
         "DEATHS": 204
     },
     {
-        "DATE": "8/20",
+        "DATE": "8/20/2020",
         "CONFIRMED": 3590,
         "ACTIVE": 167,
         "RECOVERED": 3224,
         "DEATHS": 204
     },
     {
-        "DATE": "8/21",
+        "DATE": "8/21/2020",
         "CONFIRMED": 3600,
         "ACTIVE": 166,
         "RECOVERED": 3235,
         "DEATHS": 204
     },
     {
-        "DATE": "8/22",
+        "DATE": "8/22/2020",
         "CONFIRMED": 3628,
         "ACTIVE": 173,
         "RECOVERED": 3256,
         "DEATHS": 204
     },
     {
-        "DATE": "8/23",
+        "DATE": "8/23/2020",
         "CONFIRMED": 3637,
         "ACTIVE": 182,
         "RECOVERED": 3256,
         "DEATHS": 204
     },
     {
-        "DATE": "8/24",
+        "DATE": "8/24/2020",
         "CONFIRMED": 3646,
         "ACTIVE": 190,
         "RECOVERED": 3257,
         "DEATHS": 204
     },
     {
-        "DATE": "8/25",
+        "DATE": "8/25/2020",
         "CONFIRMED": 3656,
         "ACTIVE": 124,
         "RECOVERED": 3333,
         "DEATHS": 204
     },
     {
-        "DATE": "8/26",
+        "DATE": "8/26/2020",
         "CONFIRMED": 3675,
         "ACTIVE": 135,
         "RECOVERED": 3341,
         "DEATHS": 204
     },
     {
-        "DATE": "8/27",
+        "DATE": "8/27/2020",
         "CONFIRMED": 3691,
         "ACTIVE": 145,
         "RECOVERED": 3347,
         "DEATHS": 204
     },
     {
-        "DATE": "8/28",
+        "DATE": "8/28/2020",
         "CONFIRMED": 3722,
         "ACTIVE": 150,
         "RECOVERED": 3373,
         "DEATHS": 204
     },
     {
-        "DATE": "8/29",
+        "DATE": "8/29/2020",
         "CONFIRMED": 3738,
         "ACTIVE": 165,
         "RECOVERED": 3374,
         "DEATHS": 204
     },
     {
-        "DATE": "8/30",
+        "DATE": "8/30/2020",
         "CONFIRMED": 3748,
         "ACTIVE": 175,
         "RECOVERED": 3374,
         "DEATHS": 204
     },
     {
-        "DATE": "8/31",
+        "DATE": "8/31/2020",
         "CONFIRMED": 3763,
         "ACTIVE": 169,
         "RECOVERED": 3395,
         "DEATHS": 204
     },
     {
-        "DATE": "9/1",
+        "DATE": "9/1/2020",
         "CONFIRMED": 3772,
         "ACTIVE": 171,
         "RECOVERED": 3402,
         "DEATHS": 204
     },
     {
-        "DATE": "9/2",
+        "DATE": "9/2/2020",
         "CONFIRMED": 3784,
         "ACTIVE": 175,
         "RECOVERED": 3410,
         "DEATHS": 204
     },
     {
-        "DATE": "9/3",
+        "DATE": "9/3/2020",
         "CONFIRMED": 3793,
         "ACTIVE": 175,
         "RECOVERED": 3419,
         "DEATHS": 204
     },
     {
-        "DATE": "9/4",
+        "DATE": "9/4/2020",
         "CONFIRMED": 3809,
         "ACTIVE": 171,
         "RECOVERED": 3439,
         "DEATHS": 204
     },
     {
-        "DATE": "9/5",
+        "DATE": "9/5/2020",
         "CONFIRMED": 3821,
         "ACTIVE": 162,
         "RECOVERED": 3460,
         "DEATHS": 204
     },
     {
-        "DATE": "9/6",
+        "DATE": "9/6/2020",
         "CONFIRMED": 3835,
         "ACTIVE": 176,
         "RECOVERED": 3459,
         "DEATHS": 205
     },
     {
-        "DATE": "9/7",
+        "DATE": "9/7/2020",
         "CONFIRMED": 3853,
         "ACTIVE": 171,
         "RECOVERED": 3482,
         "DEATHS": 205
     },
     {
-        "DATE": "9/8",
+        "DATE": "9/8/2020",
         "CONFIRMED": 3858,
         "ACTIVE": 176,
         "RECOVERED": 3482,
         "DEATHS": 205
     },
     {
-        "DATE": "9/9",
+        "DATE": "9/9/2020",
         "CONFIRMED": 3868,
         "ACTIVE": 173,
         "RECOVERED": 3495,
         "DEATHS": 205
     },
     {
-        "DATE": "9/10",
+        "DATE": "9/10/2020",
         "CONFIRMED": 3872,
         "ACTIVE": 171,
         "RECOVERED": 3501,
         "DEATHS": 205
     },
     {
-        "DATE": "9/11",
+        "DATE": "9/11/2020",
         "CONFIRMED": 3880,
         "ACTIVE": 168,
         "RECOVERED": 3512,
         "DEATHS": 205
     },
     {
-        "DATE": "9/12",
+        "DATE": "9/12/2020",
         "CONFIRMED": 3894,
         "ACTIVE": 160,
         "RECOVERED": 3534,
         "DEATHS": 205
     },
     {
-        "DATE": "9/13",
+        "DATE": "9/13/2020",
         "CONFIRMED": 3910,
         "ACTIVE": 176,
         "RECOVERED": 3534,
         "DEATHS": 205
     },
     {
-        "DATE": "9/14",
+        "DATE": "9/14/2020",
         "CONFIRMED": 3921,
         "ACTIVE": 123,
         "RECOVERED": 3598,
         "DEATHS": 205
     },
     {
-        "DATE": "9/15",
+        "DATE": "9/15/2020",
         "CONFIRMED": 3937,
         "ACTIVE": 123,
         "RECOVERED": 3614,
         "DEATHS": 205
     },
     {
-        "DATE": "9/16",
+        "DATE": "9/16/2020",
         "CONFIRMED": 3953,
         "ACTIVE": 125,
         "RECOVERED": 3628,
         "DEATHS": 205
     },
     {
-        "DATE": "9/17",
+        "DATE": "9/17/2020",
         "CONFIRMED": 3969,
         "ACTIVE": 140,
         "RECOVERED": 3629,
         "DEATHS": 205
     },
     {
-        "DATE": "9/18",
+        "DATE": "9/18/2020",
         "CONFIRMED": 3993,
         "ACTIVE": 158,
         "RECOVERED": 3635,
         "DEATHS": 205
     },
     {
-        "DATE": "9/19",
+        "DATE": "9/19/2020",
         "CONFIRMED": 4012,
         "ACTIVE": 159,
         "RECOVERED": 3653,
         "DEATHS": 205
     },
     {
-        "DATE": "9/20",
+        "DATE": "9/20/2020",
         "CONFIRMED": 4025,
         "ACTIVE": 172,
         "RECOVERED": 3653,
         "DEATHS": 205
     },
     {
-        "DATE": "9/21",
+        "DATE": "9/21/2020",
         "CONFIRMED": 4041,
         "ACTIVE": 188,
         "RECOVERED": 3653,
         "DEATHS": 205
     },
     {
-        "DATE": "9/22",
+        "DATE": "9/22/2020",
         "CONFIRMED": 4053,
         "ACTIVE": 164,
         "RECOVERED": 3689,
         "DEATHS": 205
     },
     {
-        "DATE": "9/23",
+        "DATE": "9/23/2020",
         "CONFIRMED": 4070,
         "ACTIVE": 168,
         "RECOVERED": 3702,
         "DEATHS": 205
     },
     {
-        "DATE": "9/24",
+        "DATE": "9/24/2020",
         "CONFIRMED": 4093,
         "ACTIVE": 179,
         "RECOVERED": 3714,
         "DEATHS": 205
     },
     {
-        "DATE": "9/25",
+        "DATE": "9/25/2020",
         "CONFIRMED": 4116,
         "ACTIVE": 178,
         "RECOVERED": 3738,
         "DEATHS": 205
     },
     {
-        "DATE": "9/26",
+        "DATE": "9/26/2020",
         "CONFIRMED": 4142,
         "ACTIVE": 193,
         "RECOVERED": 3748,
         "DEATHS": 206
     },
     {
-        "DATE": "9/27",
+        "DATE": "9/27/2020",
         "CONFIRMED": 4160,
         "ACTIVE": 210,
         "RECOVERED": 3748,
         "DEATHS": 207
     },
     {
-        "DATE": "9/28",
+        "DATE": "9/28/2020",
         "CONFIRMED": 4172,
         "ACTIVE": 198,
         "RECOVERED": 3772,
         "DEATHS": 207
     },
     {
-        "DATE": "9/29",
+        "DATE": "9/29/2020",
         "CONFIRMED": 4185,
         "ACTIVE": 188,
         "RECOVERED": 3795,
         "DEATHS": 207
     },
     {
-        "DATE": "9/30",
+        "DATE": "9/30/2020",
         "CONFIRMED": 4206,
         "ACTIVE": 187,
         "RECOVERED": 3817,
         "DEATHS": 207
     },
     {
-        "DATE": "10/1",
+        "DATE": "10/1/2020",
         "CONFIRMED": 4226,
         "ACTIVE": 190,
         "RECOVERED": 3834,
         "DEATHS": 207
     },
     {
-        "DATE": "10/2",
+        "DATE": "10/2/2020",
         "CONFIRMED": 4259,
         "ACTIVE": 190,
         "RECOVERED": 3867,
         "DEATHS": 207
     },
     {
-        "DATE": "10/3",
+        "DATE": "10/3/2020",
         "CONFIRMED": 4284,
         "ACTIVE": 186,
         "RECOVERED": 3896,
         "DEATHS": 207
     },
     {
-        "DATE": "10/4",
+        "DATE": "10/4/2020",
         "CONFIRMED": 4310,
         "ACTIVE": 212,
         "RECOVERED": 3896,
         "DEATHS": 207
     },
     {
-        "DATE": "10/5",
+        "DATE": "10/5/2020",
         "CONFIRMED": 4319,
         "ACTIVE": 197,
         "RECOVERED": 3920,
         "DEATHS": 207
     },
     {
-        "DATE": "10/6",
+        "DATE": "10/6/2020",
         "CONFIRMED": 4334,
         "ACTIVE": 175,
         "RECOVERED": 3957,
         "DEATHS": 207
     },
     {
-        "DATE": "10/7",
+        "DATE": "10/7/2020",
         "CONFIRMED": 4382,
         "ACTIVE": 209,
         "RECOVERED": 3971,
         "DEATHS": 207
     },
     {
-        "DATE": "10/8",
+        "DATE": "10/8/2020",
         "CONFIRMED": 4420,
         "ACTIVE": 229,
         "RECOVERED": 3989,
         "DEATHS": 207
     },
     {
-        "DATE": "10/9",
+        "DATE": "10/9/2020",
         "CONFIRMED": 4450,
         "ACTIVE": 245,
         "RECOVERED": 4003,
         "DEATHS": 207
     },
     {
-        "DATE": "10/10",
+        "DATE": "10/10/2020",
         "CONFIRMED": 4489,
         "ACTIVE": 256,
         "RECOVERED": 4031,
         "DEATHS": 207
     },
     {
-        "DATE": "10/11",
+        "DATE": "10/11/2020",
         "CONFIRMED": 4523,
         "ACTIVE": 289,
         "RECOVERED": 4032,
         "DEATHS": 207
     },
     {
-        "DATE": "10/12",
+        "DATE": "10/12/2020",
         "CONFIRMED": 4548,
         "ACTIVE": 306,
         "RECOVERED": 4040,
         "DEATHS": 207
     },
     {
-        "DATE": "10/13",
+        "DATE": "10/13/2020",
         "CONFIRMED": 4579,
         "ACTIVE": 289,
         "RECOVERED": 4088,
         "DEATHS": 207
     },
     {
-        "DATE": "10/14",
+        "DATE": "10/14/2020",
         "CONFIRMED": 4632,
         "ACTIVE": 326,
         "RECOVERED": 4104,
         "DEATHS": 207
     },
     {
-        "DATE": "10/15",
+        "DATE": "10/15/2020",
         "CONFIRMED": 4668,
         "ACTIVE": 346,
         "RECOVERED": 4120,
         "DEATHS": 207
     },
     {
-        "DATE": "10/16",
+        "DATE": "10/16/2020",
         "CONFIRMED": 4692,
         "ACTIVE": 318,
         "RECOVERED": 4172,
         "DEATHS": 207
     },
     {
-        "DATE": "10/17",
+        "DATE": "10/17/2020",
         "CONFIRMED": 4725,
         "ACTIVE": 297,
         "RECOVERED": 4226,
         "DEATHS": 207
     },
     {
-        "DATE": "10/18",
+        "DATE": "10/18/2020",
         "CONFIRMED": 4765,
         "ACTIVE": 335,
         "RECOVERED": 4228,
         "DEATHS": 207
     },
     {
-        "DATE": "10/19",
+        "DATE": "10/19/2020",
         "CONFIRMED": 4791,
         "ACTIVE": 277,
         "RECOVERED": 4312,
         "DEATHS": 207
     },
     {
-        "DATE": "10/20",
+        "DATE": "10/20/2020",
         "CONFIRMED": 4812,
         "ACTIVE": 271,
         "RECOVERED": 4339,
         "DEATHS": 207
     },
     {
-        "DATE": "10/21",
+        "DATE": "10/21/2020",
         "CONFIRMED": 4873,
         "ACTIVE": 303,
         "RECOVERED": 4367,
         "DEATHS": 208
     },
     {
-        "DATE": "10/22",
+        "DATE": "10/22/2020",
         "CONFIRMED": 4919,
         "ACTIVE": 324,
         "RECOVERED": 4391,
         "DEATHS": 209
     },
     {
-        "DATE": "10/23",
+        "DATE": "10/23/2020",
         "CONFIRMED": 4985,
         "ACTIVE": 340,
         "RECOVERED": 4440,
         "DEATHS": 210
     },
     {
-        "DATE": "10/24",
+        "DATE": "10/24/2020",
         "CONFIRMED": 5040,
         "ACTIVE": 354,
         "RECOVERED": 4481,
         "DEATHS": 210
     },
     {
-        "DATE": "10/25",
+        "DATE": "10/25/2020",
         "CONFIRMED": 5077,
         "ACTIVE": 390,
         "RECOVERED": 4481,
         "DEATHS": 211
     },
     {
-        "DATE": "10/26",
+        "DATE": "10/26/2020",
         "CONFIRMED": 5105,
         "ACTIVE": 355,
         "RECOVERED": 4543,
         "DEATHS": 212
     },
     {
-        "DATE": "10/27",
+        "DATE": "10/27/2020",
         "CONFIRMED": 5131,
         "ACTIVE": 338,
         "RECOVERED": 4586,
         "DEATHS": 212
     },
     {
-        "DATE": "10/28",
+        "DATE": "10/28/2020",
         "CONFIRMED": 5201,
         "ACTIVE": 379,
         "RECOVERED": 4615,
         "DEATHS": 212
     },
     {
-        "DATE": "10/29",
+        "DATE": "10/29/2020",
         "CONFIRMED": 5251,
         "ACTIVE": 398,
         "RECOVERED": 4646,
         "DEATHS": 212
     },
     {
-        "DATE": "10/30",
+        "DATE": "10/30/2020",
         "CONFIRMED": 5350,
         "ACTIVE": 449,
         "RECOVERED": 4694,
         "DEATHS": 212
     },
     {
-        "DATE": "10/31",
+        "DATE": "10/31/2020",
         "CONFIRMED": 5421,
         "ACTIVE": 466,
         "RECOVERED": 4748,
         "DEATHS": 212
     },
     {
-        "DATE": "11/1",
+        "DATE": "11/1/2020",
         "CONFIRMED": 5488,
         "ACTIVE": 531,
         "RECOVERED": 4750,
         "DEATHS": 212
     },
     {
-        "DATE": "11/2",
+        "DATE": "11/2/2020",
         "CONFIRMED": 5549,
         "ACTIVE": 522,
         "RECOVERED": 4820,
         "DEATHS": 212
     },
     {
-        "DATE": "11/3",
+        "DATE": "11/3/2020",
         "CONFIRMED": 5590,
         "ACTIVE": 471,
         "RECOVERED": 4912,
         "DEATHS": 212
     },
     {
-        "DATE": "11/4",
+        "DATE": "11/4/2020",
         "CONFIRMED": 5684,
         "ACTIVE": 557,
         "RECOVERED": 4920,
         "DEATHS": 212
     },
     {
-        "DATE": "11/5",
+        "DATE": "11/5/2020",
         "CONFIRMED": 5782,
         "ACTIVE": 589,
         "RECOVERED": 4986,
         "DEATHS": 212
     },
     {
-        "DATE": "11/6",
+        "DATE": "11/6/2020",
         "CONFIRMED": 5930,
         "ACTIVE": 709,
         "RECOVERED": 5014,
         "DEATHS": 212
     },
     {
-        "DATE": "11/7",
+        "DATE": "11/7/2020",
         "CONFIRMED": 6050,
         "ACTIVE": 718,
         "RECOVERED": 5125,
         "DEATHS": 212
     },
     {
-        "DATE": "11/8",
+        "DATE": "11/8/2020",
         "CONFIRMED": 6157,
         "ACTIVE": 823,
         "RECOVERED": 5125,
         "DEATHS": 214
     },
     {
-        "DATE": "11/9",
+        "DATE": "11/9/2020",
         "CONFIRMED": 6277,
         "ACTIVE": 868,
         "RECOVERED": 5197,
         "DEATHS": 217
+    },
+    {
+        "DATE": "11/10/2020",
+        "CONFIRMED": 6375,
+        "ACTIVE": 854,
+        "RECOVERED": 5309,
+        "DEATHS": 217
+    },
+    {
+        "DATE": "11/11/2020",
+        "CONFIRMED": 6597,
+        "ACTIVE": 968,
+        "RECOVERED": 5416,
+        "DEATHS": 218
+    },
+    {
+        "DATE": "11/12/2020",
+        "CONFIRMED": 6775,
+        "ACTIVE": 1077,
+        "RECOVERED": 5485,
+        "DEATHS": 218
+    },
+    {
+        "DATE": "11/13/2020",
+        "CONFIRMED": 6985,
+        "ACTIVE": 1112,
+        "RECOVERED": 5659,
+        "DEATHS": 219
+    },
+    {
+        "DATE": "11/14/2020",
+        "CONFIRMED": 7184,
+        "ACTIVE": 1310,
+        "RECOVERED": 5659,
+        "DEATHS": 220
+    },
+    {
+        "DATE": "11/15/2020",
+        "CONFIRMED": 7422,
+        "ACTIVE": 1545,
+        "RECOVERED": 5661,
+        "DEATHS": 221
+    },
+    {
+        "DATE": "11/16/2020",
+        "CONFIRMED": 7575,
+        "ACTIVE": 1311,
+        "RECOVERED": 6047,
+        "DEATHS": 222
+    },
+    {
+        "DATE": "11/17/2020",
+        "CONFIRMED": 7728,
+        "ACTIVE": 1328,
+        "RECOVERED": 6183,
+        "DEATHS": 222
+    },
+    {
+        "DATE": "11/18/2020",
+        "CONFIRMED": 7968,
+        "ACTIVE": 1556,
+        "RECOVERED": 6195,
+        "DEATHS": 222
+    },
+    {
+        "DATE": "11/19/2020",
+        "CONFIRMED": 8195,
+        "ACTIVE": 1779,
+        "RECOVERED": 6198,
+        "DEATHS": 223
+    },
+    {
+        "DATE": "11/20/2020",
+        "CONFIRMED": 8414,
+        "ACTIVE": 1715,
+        "RECOVERED": 6479,
+        "DEATHS": 225
+    },
+    {
+        "DATE": "11/21/2020",
+        "CONFIRMED": 8603,
+        "ACTIVE": 1902,
+        "RECOVERED": 6481,
+        "DEATHS": 225
+    },
+    {
+        "DATE": "11/22/2020",
+        "CONFIRMED": 8810,
+        "ACTIVE": 1792,
+        "RECOVERED": 6797,
+        "DEATHS": 226
+    },
+    {
+        "DATE": "11/23/2020",
+        "CONFIRMED": 9009,
+        "ACTIVE": 1800,
+        "RECOVERED": 6988,
+        "DEATHS": 226
+    },
+    {
+        "DATE": "11/24/2020",
+        "CONFIRMED": 9184,
+        "ACTIVE": 1973,
+        "RECOVERED": 6990,
+        "DEATHS": 226
+    },
+    {
+        "DATE": "11/25/2020",
+        "CONFIRMED": 9454,
+        "ACTIVE": 2239,
+        "RECOVERED": 6991,
+        "DEATHS": 229
+    },
+    {
+        "DATE": "11/26/2020",
+        "CONFIRMED": 9667,
+        "ACTIVE": 2448,
+        "RECOVERED": 6993,
+        "DEATHS": 231
+    },
+    {
+        "DATE": "11/27/2020",
+        "CONFIRMED": 9890,
+        "ACTIVE": 1979,
+        "RECOVERED": 7681,
+        "DEATHS": 235
+    },
+    {
+        "DATE": "11/28/2020",
+        "CONFIRMED": 10026,
+        "ACTIVE": 1770,
+        "RECOVERED": 8023,
+        "DEATHS": 238
+    },
+    {
+        "DATE": "11/29/2020",
+        "CONFIRMED": 10261,
+        "ACTIVE": 1829,
+        "RECOVERED": 8199,
+        "DEATHS": 238
+    },
+    {
+        "DATE": "11/30/2020",
+        "CONFIRMED": 10473,
+        "ACTIVE": 2021,
+        "RECOVERED": 8216,
+        "DEATHS": 241
+    },
+    {
+        "DATE": "12/1/2020",
+        "CONFIRMED": 10687,
+        "ACTIVE": 2056,
+        "RECOVERED": 8393,
+        "DEATHS": 243
+    },
+    {
+        "DATE": "12/2/2020",
+        "CONFIRMED": 10975,
+        "ACTIVE": 1845,
+        "RECOVERED": 8887,
+        "DEATHS": 248
+    },
+    {
+        "DATE": "12/3/2020",
+        "CONFIRMED": 11323,
+        "ACTIVE": 1894,
+        "RECOVERED": 9180,
+        "DEATHS": 254
+    },
+    {
+        "DATE": "12/4/2020",
+        "CONFIRMED": 11580,
+        "ACTIVE": 2065,
+        "RECOVERED": 9261,
+        "DEATHS": 259
+    },
+    {
+        "DATE": "12/5/2020",
+        "CONFIRMED": 11828,
+        "ACTIVE": 2068,
+        "RECOVERED": 9501,
+        "DEATHS": 264
+    },
+    {
+        "DATE": "12/6/2020",
+        "CONFIRMED": 12184,
+        "ACTIVE": 2244,
+        "RECOVERED": 9678,
+        "DEATHS": 267
+    },
+    {
+        "DATE": "12/7/2020",
+        "CONFIRMED": 12487,
+        "ACTIVE": 2309,
+        "RECOVERED": 9914,
+        "DEATHS": 269
+    },
+    {
+        "DATE": "12/8/2020",
+        "CONFIRMED": 12798,
+        "ACTIVE": 2593,
+        "RECOVERED": 9940,
+        "DEATHS": 270
+    },
+    {
+        "DATE": "12/9/2020",
+        "CONFIRMED": 13110,
+        "ACTIVE": 2713,
+        "RECOVERED": 10126,
+        "DEATHS": 276
+    },
+    {
+        "DATE": "12/10/2020",
+        "CONFIRMED": 13403,
+        "ACTIVE": 2526,
+        "RECOVERED": 10600,
+        "DEATHS": 282
+    },
+    {
+        "DATE": "12/11/2020",
+        "CONFIRMED": 13869,
+        "ACTIVE": 2987,
+        "RECOVERED": 10599,
+        "DEATHS": 288
+    },
+    {
+        "DATE": "12/12/2020",
+        "CONFIRMED": 14296,
+        "ACTIVE": 3286,
+        "RECOVERED": 10716,
+        "DEATHS": 299
+    },
+    {
+        "DATE": "12/13/2020",
+        "CONFIRMED": 14696,
+        "ACTIVE": 3680,
+        "RECOVERED": 10717,
+        "DEATHS": 304
+    },
+    {
+        "DATE": "12/14/2020",
+        "CONFIRMED": 14984,
+        "ACTIVE": 3964,
+        "RECOVERED": 10717,
+        "DEATHS": 308
+    },
+    {
+        "DATE": "12/15/2020",
+        "CONFIRMED": 15277,
+        "ACTIVE": 3721,
+        "RECOVERED": 11247,
+        "DEATHS": 314
+    },
+    {
+        "DATE": "12/16/2020",
+        "CONFIRMED": 15574,
+        "ACTIVE": 3227,
+        "RECOVERED": 12020,
+        "DEATHS": 332
+    },
+    {
+        "DATE": "12/17/2020",
+        "CONFIRMED": 15952,
+        "ACTIVE": 3132,
+        "RECOVERED": 12491,
+        "DEATHS": 334
+    },
+    {
+        "DATE": "12/18/2020",
+        "CONFIRMED": 16353,
+        "ACTIVE": 3325,
+        "RECOVERED": 12696,
+        "DEATHS": 337
+    },
+    {
+        "DATE": "12/19/2020",
+        "CONFIRMED": 16800,
+        "ACTIVE": 3509,
+        "RECOVERED": 12947,
+        "DEATHS": 349
+    },
+    {
+        "DATE": "12/20/2020",
+        "CONFIRMED": 17104,
+        "ACTIVE": 3808,
+        "RECOVERED": 12947,
+        "DEATHS": 354
+    },
+    {
+        "DATE": "12/21/2020",
+        "CONFIRMED": 17408,
+        "ACTIVE": 3459,
+        "RECOVERED": 13594,
+        "DEATHS": 360
+    },
+    {
+        "DATE": "12/22/2020",
+        "CONFIRMED": 17635,
+        "ACTIVE": 3680,
+        "RECOVERED": 13595,
+        "DEATHS": 365
+    },
+    {
+        "DATE": "12/23/2020",
+        "CONFIRMED": 17881,
+        "ACTIVE": 3794,
+        "RECOVERED": 13719,
+        "DEATHS": 373
+    },
+    {
+        "DATE": "12/24/2020",
+        "CONFIRMED": 18353,
+        "ACTIVE": 3479,
+        "RECOVERED": 14493,
+        "DEATHS": 386
+    },
+    {
+        "DATE": "12/25/2020",
+        "CONFIRMED": 18666,
+        "ACTIVE": 3660,
+        "RECOVERED": 14616,
+        "DEATHS": 395
+    },
+    {
+        "DATE": "12/26/2020",
+        "CONFIRMED": 18956,
+        "ACTIVE": 3938,
+        "RECOVERED": 14616,
+        "DEATHS": 407
+    },
+    {
+        "DATE": "12/27/2020",
+        "CONFIRMED": 19184,
+        "ACTIVE": 4156,
+        "RECOVERED": 14616,
+        "DEATHS": 417
+    },
+    {
+        "DATE": "12/28/2020",
+        "CONFIRMED": 19424,
+        "ACTIVE": 3873,
+        "RECOVERED": 15127,
+        "DEATHS": 429
+    },
+    {
+        "DATE": "12/29/2020",
+        "CONFIRMED": 19670,
+        "ACTIVE": 4046,
+        "RECOVERED": 15194,
+        "DEATHS": 435
+    },
+    {
+        "DATE": "12/30/2020",
+        "CONFIRMED": 20006,
+        "ACTIVE": 4372,
+        "RECOVERED": 15194,
+        "DEATHS": 445
+    },
+    {
+        "DATE": "12/31/2020",
+        "CONFIRMED": 20460,
+        "ACTIVE": 4818,
+        "RECOVERED": 15194,
+        "DEATHS": 453
+    },
+    {
+        "DATE": "1/1/2021",
+        "CONFIRMED": 20959,
+        "ACTIVE": 5313,
+        "RECOVERED": 15194,
+        "DEATHS": 457
+    },
+    {
+        "DATE": "1/2/2021",
+        "CONFIRMED": 21361,
+        "ACTIVE": 5711,
+        "RECOVERED": 15194,
+        "DEATHS": 461
+    },
+    {
+        "DATE": "1/3/2021",
+        "CONFIRMED": 21683,
+        "ACTIVE": 6027,
+        "RECOVERED": 15194,
+        "DEATHS": 467
+    },
+    {
+        "DATE": "1/4/2021",
+        "CONFIRMED": 22010,
+        "ACTIVE": 5033,
+        "RECOVERED": 16509,
+        "DEATHS": 473
+    },
+    {
+        "DATE": "1/5/2021",
+        "CONFIRMED": 22287,
+        "ACTIVE": 4440,
+        "RECOVERED": 17370,
+        "DEATHS": 482
+    },
+    {
+        "DATE": "1/6/2021",
+        "CONFIRMED": 22580,
+        "ACTIVE": 4630,
+        "RECOVERED": 17466,
+        "DEATHS": 489
+    },
+    {
+        "DATE": "1/7/2021",
+        "CONFIRMED": 23051,
+        "ACTIVE": 3902,
+        "RECOVERED": 18652,
+        "DEATHS": 502
+    },
+    {
+        "DATE": "1/8/2021",
+        "CONFIRMED": 23525,
+        "ACTIVE": 3631,
+        "RECOVERED": 19384,
+        "DEATHS": 515
+    },
+    {
+        "DATE": "1/9/2021",
+        "CONFIRMED": 23996,
+        "ACTIVE": 4096,
+        "RECOVERED": 19384,
+        "DEATHS": 521
+    },
+    {
+        "DATE": "1/10/2021",
+        "CONFIRMED": 24449,
+        "ACTIVE": 4534,
+        "RECOVERED": 19394,
+        "DEATHS": 526
+    },
+    {
+        "DATE": "1/11/2021",
+        "CONFIRMED": 24671,
+        "ACTIVE": 3676,
+        "RECOVERED": 20471,
+        "DEATHS": 529
+    },
+    {
+        "DATE": "1/12/2021",
+        "CONFIRMED": 24960,
+        "ACTIVE": 3637,
+        "RECOVERED": 20794,
+        "DEATHS": 534
+    },
+    {
+        "DATE": "1/13/2021",
+        "CONFIRMED": 25202,
+        "ACTIVE": 3510,
+        "RECOVERED": 21159,
+        "DEATHS": 538
     }
 ]

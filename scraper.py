@@ -1,9 +1,11 @@
-import urllib.request, urllib.parse, json, datetime
+import urllib.request, urllib.parse, json, datetime, time
 
-#this is mostly just because i don't like how the county labels dates
-def convert_date(date):
+# this is mostly just because i don't like how the county labels dates
+# also to add the year to the date, as we are sadly getting to that point
+def convert_date(date, objID):
+	year = "2020" if objID < 293 else "2021"
 	monthAbbr = {"JAN": "1", "FEB": "2", "MAR": "3", "APR": "4", "MAY": "5", "JUN": "6", "JUL": "7", "AUG": "8", "SEP": "9", "OCT": "10", "NOV": "11", "DEC": "12"}
-	return monthAbbr[date[:3]] + "/" + date[3:]
+	return monthAbbr[date[:3]] + "/" + date[3:] + "/" + year
 
 #since the current days info is usually not uploaded until later in the afternoon,
 #its far more likely the data for the day before exists
@@ -19,41 +21,36 @@ def get_yesterday():
 
 def get_data():
 	clean_data = []
-	yesterday = get_yesterday()
-	print("finding data for " + yesterday.replace("_", " ") + "...")
-	#its entirely possible this format will suddenly change, i'll try to keep on top of that.
-	url = "https://services3.arcgis.com/6QuzuucBh0MLJk7u/arcgis/rest/services/Case_mapping_by_municipality_" + yesterday + "/FeatureServer/1/query?f=json&where=1=1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outSR=102100&resultOffset=0&resultRecordCount=4000&resultType=standard&cacheHint=true"
+	# since the actual filename we want is always changing, we find the current one that we actually need
+	# (Case_Mapping_By_Municipality) and then work with that
+	dataParams = "/1/query?f=json&where=1=1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outSR=102100&resultOffset=0&resultRecordCount=4000&resultType=standard&cacheHint=true"
+	allServices = "https://services3.arcgis.com/6QuzuucBh0MLJk7u/arcgis/rest/services?f=pjson"
+	allContent = urllib.request.urlopen(allServices).read().decode()
+	allSites = json.loads(allContent)["services"]
+	site = None
+	for service in allSites:
+		serviceName = " ".join(service["name"].split("_")[:4])
+		if serviceName == "Case mapping by municipality":
+			site = service["url"]
+			break
+	# should the expected service not be there, print an error message
+	if site == None:
+		print("!!ERROR!! COVID data service not found!")
+		print("Check the county's API site to see if the site has changed the name scheme: ")
+		print("https://services3.arcgis.com/6QuzuucBh0MLJk7u/arcgis/rest/services")
+		return
+	url = site + dataParams
 	content = urllib.request.urlopen(url).read().decode()
 	data = json.loads(content)
-	#should data not exist for the day before, try the last week
+	#should the parameters be invalid, print an error message
 	if "error" in data:
-		#sleep, so i don't get ip banned
-		sleep(2)
-		today = datetime.datetime.now()
-		days_tried = 0
-		day = int(yesterday.split("_")[1])
-		month = yesterday.split("_")[0]
-		while "error" in data and days_tried < 7:
-			print("data for " + month + " " + str(day) + " not found!")
-			day -= 1
-			if day == 0:
-				lastMonth = datetime.date(today.year, today.month, 1) - datetime.timedelta(days=1)
-				day = lastMonth.day
-				month = lastMonth.strftime("%B")
-			print("trying " + month + " " + str(day) + "...")
-			url = "https://services3.arcgis.com/6QuzuucBh0MLJk7u/arcgis/rest/services/Case_mapping_by_municipality_" + yesterday + "/FeatureServer/1/query?f=json&where=1=1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&outSR=102100&resultOffset=0&resultRecordCount=4000&resultType=standard&cacheHint=true"
-			content = urllib.request.urlopen(url).read().decode()
-			data = json.loads(content)
-			days_tried += 1
-		#if data still isn't found, just give up.
-		if "error" in data:
-			print("data for the past week not found!")
-			return
+		print("!!ERROR!! INVALID DATA PARAMS")
+		return
 	#this is all the data from the map that seems intresting without the context of the map
 	#(ommitted in this is OBJECTID, Shape__Area, and Shape__Length)
 	for date in data["features"]:
 		dateData = date["attributes"]
-		clean_data.append({"DATE": convert_date(dateData["DATE"]), "CONFIRMED": dateData["CONFIRMED"], "ACTIVE": dateData["ACTIVE"], "RECOVERED": dateData["RECOVERED"], "DEATHS": dateData["DEATHS"]})
+		clean_data.append({"DATE": convert_date(dateData["DATE"], dateData['OBJECTID']), "CONFIRMED": dateData["CONFIRMED"], "ACTIVE": dateData["ACTIVE"], "RECOVERED": dateData["RECOVERED"], "DEATHS": dateData["DEATHS"]})
 	#creates (or overrites should covid_data.json already exist) a file named "covid_data.json"
 	with open("covid_data.json", 'w') as f:
 		f.write(json.dumps(clean_data, indent=4))
