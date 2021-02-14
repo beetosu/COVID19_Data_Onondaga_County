@@ -2133,5 +2133,215 @@
         "ACTIVE": 3510,
         "RECOVERED": 21159,
         "DEATHS": 538
+    },
+    {
+        "DATE": "1/14/2021",
+        "CONFIRMED": 25532,
+        "ACTIVE": 3544,
+        "RECOVERED": 21449,
+        "DEATHS": 544
+    },
+    {
+        "DATE": "1/15/2021",
+        "CONFIRMED": 25909,
+        "ACTIVE": 3614,
+        "RECOVERED": 21752,
+        "DEATHS": 548
+    },
+    {
+        "DATE": "1/16/2021",
+        "CONFIRMED": 26282,
+        "ACTIVE": 3982,
+        "RECOVERED": 21752,
+        "DEATHS": 553
+    },
+    {
+        "DATE": "1/17/2021",
+        "CONFIRMED": 26569,
+        "ACTIVE": 3868,
+        "RECOVERED": 22150,
+        "DEATHS": 556
+    },
+    {
+        "DATE": "1/18/2021",
+        "CONFIRMED": 26782,
+        "ACTIVE": 3818,
+        "RECOVERED": 22410,
+        "DEATHS": 559
+    },
+    {
+        "DATE": "1/19/2021",
+        "CONFIRMED": 27038,
+        "ACTIVE": 3695,
+        "RECOVERED": 22785,
+        "DEATHS": 563
+    },
+    {
+        "DATE": "1/20/2021",
+        "CONFIRMED": 27241,
+        "ACTIVE": 3898,
+        "RECOVERED": 22785,
+        "DEATHS": 563
+    },
+    {
+        "DATE": "1/21/2021",
+        "CONFIRMED": 27461,
+        "ACTIVE": 3441,
+        "RECOVERED": 23456,
+        "DEATHS": 569
+    },
+    {
+        "DATE": "1/22/2021",
+        "CONFIRMED": 27701,
+        "ACTIVE": 3206,
+        "RECOVERED": 23926,
+        "DEATHS": 574
+    },
+    {
+        "DATE": "1/23/2021",
+        "CONFIRMED": 27954,
+        "ACTIVE": 3457,
+        "RECOVERED": 23926,
+        "DEATHS": 576
+    },
+    {
+        "DATE": "1/24/2021",
+        "CONFIRMED": 28253,
+        "ACTIVE": 3302,
+        "RECOVERED": 24377,
+        "DEATHS": 579
+    },
+    {
+        "DATE": "1/25/2021",
+        "CONFIRMED": 28458,
+        "ACTIVE": 2769,
+        "RECOVERED": 25110,
+        "DEATHS": 584
+    },
+    {
+        "DATE": "1/26/2021",
+        "CONFIRMED": 28566,
+        "ACTIVE": 2690,
+        "RECOVERED": 25293,
+        "DEATHS": 588
+    },
+    {
+        "DATE": "1/27/2021",
+        "CONFIRMED": 28674,
+        "ACTIVE": 2794,
+        "RECOVERED": 25293,
+        "DEATHS": 592
+    },
+    {
+        "DATE": "1/28/2021",
+        "CONFIRMED": 28833,
+        "ACTIVE": 2949,
+        "RECOVERED": 25293,
+        "DEATHS": 596
+    },
+    {
+        "DATE": "1/29/2021",
+        "CONFIRMED": 28957,
+        "ACTIVE": 2401,
+        "RECOVERED": 25962,
+        "DEATHS": 604
+    },
+    {
+        "DATE": "1/30/2021",
+        "CONFIRMED": 29088,
+        "ACTIVE": 2395,
+        "RECOVERED": 26097,
+        "DEATHS": 606
+    },
+    {
+        "DATE": "1/31/2021",
+        "CONFIRMED": 29235,
+        "ACTIVE": 2105,
+        "RECOVERED": 26533,
+        "DEATHS": 607
+    },
+    {
+        "DATE": "2/1/2021",
+        "CONFIRMED": 29382,
+        "ACTIVE": 2082,
+        "RECOVERED": 26699,
+        "DEATHS": 611
+    },
+    {
+        "DATE": "2/2/2021",
+        "CONFIRMED": 29473,
+        "ACTIVE": 2034,
+        "RECOVERED": 26837,
+        "DEATHS": 612
+    },
+    {
+        "DATE": "2/3/2021",
+        "CONFIRMED": 29574,
+        "ACTIVE": 1966,
+        "RECOVERED": 27005,
+        "DEATHS": 613
+    },
+    {
+        "DATE": "2/4/2021",
+        "CONFIRMED": 29648,
+        "ACTIVE": 1566,
+        "RECOVERED": 27475,
+        "DEATHS": 617
+    },
+    {
+        "DATE": "2/5/2021",
+        "CONFIRMED": 29749,
+        "ACTIVE": 1410,
+        "RECOVERED": 27728,
+        "DEATHS": 621
+    },
+    {
+        "DATE": "2/6/2021",
+        "CONFIRMED": 29864,
+        "ACTIVE": 1334,
+        "RECOVERED": 27914,
+        "DEATHS": 626
+    },
+    {
+        "DATE": "2/7/2021",
+        "CONFIRMED": 29963,
+        "ACTIVE": 1432,
+        "RECOVERED": 27914,
+        "DEATHS": 627
+    },
+    {
+        "DATE": "2/8/2021",
+        "CONFIRMED": 30052,
+        "ACTIVE": 1260,
+        "RECOVERED": 28170,
+        "DEATHS": 632
+    },
+    {
+        "DATE": "2/9/2021",
+        "CONFIRMED": 30122,
+        "ACTIVE": 1308,
+        "RECOVERED": 28190,
+        "DEATHS": 634
+    },
+    {
+        "DATE": "2/10/2021",
+        "CONFIRMED": 30198,
+        "ACTIVE": 1257,
+        "RECOVERED": 28313,
+        "DEATHS": 638
+    },
+    {
+        "DATE": "2/11/2021",
+        "CONFIRMED": 30293,
+        "ACTIVE": 1082,
+        "RECOVERED": 28579,
+        "DEATHS": 642
+    },
+    {
+        "DATE": "2/12/2021",
+        "CONFIRMED": 30403,
+        "ACTIVE": 746,
+        "RECOVERED": 29023,
+        "DEATHS": 644
     }
 ]
