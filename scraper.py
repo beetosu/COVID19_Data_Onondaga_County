@@ -1,11 +1,13 @@
 import urllib.request, urllib.parse, json, datetime, time
 
+monthAbbr = {"JAN": "1", "FEB": "2", "MAR": "3", "APR": "4", "MAY": "5", "JUN": "6", "JUL": "7", "AUG": "8", "SEP": "9", "OCT": "10", "NOV": "11", "DEC": "12"}
+
 # this is mostly just because i don't like how the county labels dates
-# also to add the year to the date, as we are sadly getting to that point
-def convert_date(date, objID):
-	year = "2020" if objID < 293 else "2021"
-	monthAbbr = {"JAN": "1", "FEB": "2", "MAR": "3", "APR": "4", "MAY": "5", "JUN": "6", "JUL": "7", "AUG": "8", "SEP": "9", "OCT": "10", "NOV": "11", "DEC": "12"}
-	return monthAbbr[date[:3]] + "/" + date[3:] + "/" + year
+def convert_date(date):
+	date_split = date.split(" ")
+	month = monthAbbr[date_split[0][:3]]
+	day = date_split[0][3:]
+	return month + "/" + day + "/" + date_split[1]
 
 #since the current days info is usually not uploaded until later in the afternoon,
 #its far more likely the data for the day before exists
@@ -50,7 +52,7 @@ def get_data():
 	#(ommitted in this is OBJECTID, Shape__Area, and Shape__Length)
 	for date in data["features"]:
 		dateData = date["attributes"]
-		clean_data.append({"DATE": convert_date(dateData["DATE"], dateData['OBJECTID']), "CONFIRMED": dateData["CONFIRMED"], "ACTIVE": dateData["ACTIVE"], "RECOVERED": dateData["RECOVERED"], "DEATHS": dateData["DEATHS"]})
+		clean_data.append({"DATE": convert_date(dateData["DATE"]), "CONFIRMED": dateData["CONFIRMED"], "ACTIVE": dateData["ACTIVE"], "RECOVERED": dateData["RECOVERED"], "DEATHS": dateData["DEATHS"]})
 	#creates (or overrites should covid_data.json already exist) a file named "covid_data.json"
 	with open("covid_data.json", 'w') as f:
 		f.write(json.dumps(clean_data, indent=4))
